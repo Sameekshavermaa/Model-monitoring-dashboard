@@ -59,7 +59,7 @@ Data Stream → Processing → Drift Detection → Anomaly Detection → Predict
 
 ## 📁 Project Structure  
 
-'''
+```
 model-monitoring-drift-system/
 │
 ├── dashboard/
@@ -68,7 +68,7 @@ model-monitoring-drift-system/
 ├── requirements.txt
 ├── README.md
 
-'''
+```
 ---
 
 ## 💡 Why This Project Matters  
