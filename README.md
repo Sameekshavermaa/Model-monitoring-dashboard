@@ -41,8 +41,11 @@ This project simulates a real-world ML monitoring system that:
 ---
 
 ## 🖼️ Preview  
+
 ![image alt](https://github.com/Sameekshavermaa/Model-monitoring-dashboard/blob/99c01d6cc972031a4001363581d577adde546e10/Screenshot%202026-03-18%20at%2017.59.25.png)
+
 ![image alt](https://github.com/Sameekshavermaa/Model-monitoring-dashboard/blob/12a937d598848b9bbd3ae59f7a37ed8b58b8d7e1/Screenshot%202026-03-18%20at%2017.59.51.png)
+
 ![image alt](https://github.com/Sameekshavermaa/Model-monitoring-dashboard/blob/12a937d598848b9bbd3ae59f7a37ed8b58b8d7e1/Screenshot%202026-03-18%20at%2018.00.28.png)
 
 ---
