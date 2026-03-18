@@ -93,9 +93,3 @@ This system helps:
 
 **Sameeksha Verma**  
 Product Design Student | Exploring AI & Creative Tech  
-
----
-
-## ⭐ Support  
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
